@@ -10,8 +10,8 @@ Installation
 meteor add gwendall:useraccounts-react
 ```
 
-How to
-------
+How it works
+-----------
 
 1. Add this package **after** your useraccounts package (useraccounts:unstyled, useraccounts:bootstrap, etc.).
 
